@@ -28,11 +28,16 @@ Drama aside, good vibes only 🌷
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-f78fb3?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-ffb6c1?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-ff9ebb?style=for-the-badge&logo=keras&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-ff7eb6?style=for-the-badge&logo=powerbi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-ffa8c5?style=for-the-badge&logo=streamlit&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-ff85a2?style=for-the-badge&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-ffb6c1?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-ff69b4?style=for-the-badge&logo=git&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-ff7eb6?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-ff69b4?style=for-the-badge)
+![Information Retrieval](https://img.shields.io/badge/Information%20Retrieval-ff85a2?style=for-the-badge)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-ffa8c5?style=for-the-badge&logo=huggingface&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-f78fb3?style=for-the-badge&logo=fastapi&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-ffb6c1?style=for-the-badge&logo=pytest&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-ff9ebb?style=for-the-badge&logo=streamlit&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-ff7eb6?style=for-the-badge&logo=powerbi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-ff69b4?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-ff85a2?style=for-the-badge&logo=git&logoColor=white)
 
 <br/><br/>
 
