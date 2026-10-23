@@ -9,15 +9,15 @@
 <br/><br/>
 
 <p align="center">
-Hey, I'm Arpita 🎀 an MCA student diving into AI & ML, and honestly? I'm obsessed with cleaning toxic data, but somehow I still can't clean the toxicity out of my own life 🙃<br/>
-Plot twist: I'm working on it, one outlier at a time.<br/>
-I'm a little bit of data, a little bit of intelligence and a whole lot of curiosity, turning chaos into something useful (and trying to do the same for my life too).<br/>
-No cap, healing arc loading and I'm on my way to becoming an AI/ML engineer, looking for ML internships and data analytics roles where I can learn, grow and glow up ✨<br/>
-Drama aside, good vibes only 🌷
+<b>Hey, I'm Arpita 🎀</b><br/>
+Currently pursuing my MCA in AI & ML, working on projects, learning new tools, and growing my skills one step at a time.<br/>
+Looking for AI & ML internships and jobs where I can learn, grow, contribute and glow up ✨<br/>
+<sub>Open to entry-level roles: ML Engineer · AI Engineer · Data Analyst · Data Scientist · NLP / GenAI</sub><br/>
+Good vibes only 🌷
 </p>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1800&pause=300&color=FF85A2&center=true&vCenter=true&width=460&height=30&lines=%F0%9F%95%90+cleaning+toxic+data...;%F0%9F%95%93+toxicity+in+life+still+loading...;%F0%9F%95%95+healing+arc+in+progress...;%E2%9C%A8+good+vibes+only" alt="Loading" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1800&pause=300&color=FF85A2&center=true&vCenter=true&width=460&height=30&lines=%F0%9F%95%90+cleaning+messy+data...;%F0%9F%95%93+training+models...;%F0%9F%95%95+debugging+life+%26+code...;%E2%9C%A8+good+vibes+only" alt="Loading" />
 </a>
 
 <br/>
@@ -28,9 +28,8 @@ Drama aside, good vibes only 🌷
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-f78fb3?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-ffb6c1?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-ff9ebb?style=for-the-badge&logo=keras&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-ff7eb6?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-ff69b4?style=for-the-badge)
-![Information Retrieval](https://img.shields.io/badge/Information%20Retrieval-ff85a2?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-ff7eb6?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik00IDNoMTZhMiAyIDAgMCAxIDIgMnYxMGEyIDIgMCAwIDEtMiAySDlsLTUgNHYtNGEyIDIgMCAwIDEtMi0yVjVhMiAyIDAgMCAxIDItMnoiLz48L3N2Zz4%3D)
+![RAG](https://img.shields.io/badge/RAG-ff69b4?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik02IDJoOGw2IDZ2MTJhMiAyIDAgMCAxLTIgMkg2YTIgMiAwIDAgMS0yLTJWNGEyIDIgMCAwIDEgMi0yem03IDEuNVY5aDUuNUwxMyAzLjV6Ii8%2BPC9zdmc%2B)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-ffa8c5?style=for-the-badge&logo=huggingface&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-f78fb3?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Pytest](https://img.shields.io/badge/Pytest-ffb6c1?style=for-the-badge&logo=pytest&logoColor=white)
@@ -41,12 +40,12 @@ Drama aside, good vibes only 🌷
 
 <br/><br/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&hide_border=true&count_private=true&bg_color=fff0f5&title_color=ff69b4&icon_color=ff85a2&text_color=d46a92&ring_color=ff69b4" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&hide_border=true&bg_color=fff0f5&title_color=ff69b4&text_color=d46a92" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=IllayaCodes&show_icons=true&hide_border=true&count_private=true&bg_color=fff0f5&title_color=ff69b4&icon_color=ff85a2&text_color=d46a92&ring_color=ff69b4" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IllayaCodes&layout=compact&hide_border=true&bg_color=fff0f5&title_color=ff69b4&text_color=d46a92" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=YOUR-GITHUB-USERNAME&hide_border=true&background=fff0f5&ring=ff69b4&fire=ff85a2&currStreakNum=d46a92&sideNums=d46a92&currStreakLabel=ff69b4&sideLabels=ff85a2&dates=e8a0b8" height="165" />
+<img src="https://streak-stats.demolab.com/?user=IllayaCodes&hide_border=true&background=fff0f5&ring=ff69b4&fire=ff85a2&currStreakNum=d46a92&sideNums=d46a92&currStreakLabel=ff69b4&sideLabels=ff85a2&dates=e8a0b8" height="165" />
 
 <br/>
 
